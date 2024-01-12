@@ -1,5 +1,15 @@
 package nl.vasilverdouw.example_code;
 
+/*
+ * -----------------------
+ * 
+ * NOTICE
+ * 
+ * This code is NOT written by me, Vasil Verdouw.
+ * It has been provided as an example of how to use Swing.
+ * 
+ * -----------------------
+ */
 public class ScoreController {
     private static final String ROCK = "rock";
     private static final String PAPER = "paper";

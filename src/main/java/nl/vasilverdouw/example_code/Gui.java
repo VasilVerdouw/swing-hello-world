@@ -10,6 +10,16 @@ import java.awt.image.BufferedImage;
 import java.io.File;
 import java.io.IOException;
 
+/*
+ * -----------------------
+ * 
+ * NOTICE
+ * 
+ * This code is NOT written by me, Vasil Verdouw.
+ * It has been provided as an example of how to use Swing.
+ * 
+ * -----------------------
+ */
 public class Gui extends JFrame implements ActionListener {
 
     private JLabel scoreLabel;

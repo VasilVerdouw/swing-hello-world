@@ -5,7 +5,7 @@
     <modelVersion>4.0.0</modelVersion>
 
     <groupId>nl.vasilverdouw</groupId>
-    <artifactId>jline-hello-world</artifactId>
+    <artifactId>swing-hello-world</artifactId>
     <version>1.0-SNAPSHOT</version>
 
     <properties>
